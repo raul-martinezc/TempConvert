@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Icon generation intermediates
+icon.iconset/
+icon.icns
+icon.png
